@@ -31,4 +31,5 @@ User panel home page(bids page)
 ![](screenshots/User%20panel%20deposit%20page.png)
 User panel make deposit page
 
-![](screenshots/User%20panel%20wallet.png)User panel wallet for added deposit
+![](screenshots/User%20panel%20wallet.png)<br/>
+User panel wallet for added deposit
