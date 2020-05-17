@@ -6,7 +6,7 @@
 - Players can  bid any amount to any table number, their active bid history will be shown near to bid panel.
 - Players can also add deposit to their in-built wallet, so their bids can get recovered.
 - Admin panel will have watch on all users & their bids, newly registered players will pass request to admin panel to approve that player to make bids, therefore admin approved player only will able to make bids.
-- Admin can remove any player or disable any account from panel.
+- Admin can remove any player or disable any account from panel username & password is same as a@b.c.
 - Dummy data for all panels can be get through db records and password for all users is "demo".<br/><br/>
 - Here are some screenshots for this application:
 
